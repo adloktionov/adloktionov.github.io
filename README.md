@@ -1,6 +1,6 @@
 # adloktionov.github.io
 
-Магазин кросовок React-sneackers
+Магазин кросовок React-sneakers
 
 
 Это тестовый учебный пет-проект собранный на React.
